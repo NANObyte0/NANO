@@ -2,12 +2,12 @@
 title: IKE Enumeration for Pentesters
 published: 2025-12-14
 description: "⭐ NANO IS HERE ⭐"
-image: "/src/assets/images/IKE_PE.png"
+image: "/IKE_PE.png"
 tags: ["IKEEnumeration", "PSKCracking", "Pentesting","IKE-scan","ISAKMP"]
 category: Hacking TTPs
 draft: false
 ---
-> [Source](/src/assets/images/IKE_PE.png)
+> [Source](./IKE_PE.png)
 
 ⭐ **NANO IS HERE** ⭐
 --------------------
